@@ -21,20 +21,9 @@ I received my first doctoral degree in Control Science and Engineering from the 
 
    state estimation, multi-sensor fusion, path planning, trajectory generation, safe control, relative locolization
  
-* Cooperative motion control of multiple robots 
+* Motion control of multiple robots (UAV, UGV)
 
-formation control, temporal-spatial path planning, cooeprative estimation
-
-
-
-Aerial Robots
-
-
-
-
-
-
-
+   formation control, spatial-temporal motion planning, cooeprative locolization and control, resilient control 
 
 
 
