@@ -13,11 +13,17 @@ I received my first doctoral degree in Control Science and Engineering from the 
 
 Research Interests
 ======
-Robotics
-My current research interests mainly focuse on tensegrity robots, aerial robots, 
-multi-agent cooperative motion control, new concept robot design, modeling, and control. 
+Tensegrity robots 
+
+Mechanical Design, Dynamic Modeling, Form-finding, Locomition Control, Path Planning
+
+Aerial Robots
+
+
 
 Cooperative motion control of multiple robots
+
+
 
 
 
