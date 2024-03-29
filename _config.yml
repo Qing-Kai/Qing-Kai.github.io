@@ -22,12 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             :     "Professor"
+  name             :     "Professor
+  Beijing Institute of Technology"
   
   pronouns         : # example: "she/her"  
   bio              : #" "
   location         : "Beijing, China"
-  employer         : "Beijing Institute of Technology"
+  employer         : #"Beijing Institute of Technology"
   uri              : # URL
   email            : "qingkai.yang@bit.edu.cn" 
 
