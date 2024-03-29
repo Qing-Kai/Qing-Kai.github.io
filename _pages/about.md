@@ -13,8 +13,10 @@ I received my first doctoral degree in Control Science and Engineering from the 
 
 # Research Interests
 
-* Tensegrity robots 
-   Mechanical Design, Dynamic Modeling, Form-finding, Locomition Control, Path Planning
+* Tensegrity robots
+
+   mechanical design, dynamic modeling, form-finding, Locomition Control, Path Planning
+
 * Aerial Robots
   * 子项目 C
 * Cooperative motion control of multiple robots
