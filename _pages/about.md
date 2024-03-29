@@ -11,7 +11,7 @@ In am currently a professor at the Schoof of Automation, Beijing Institute of Te
 
 I received my first doctoral degree in Control Science and Engineering from the School of Automation at Bejing institute of Technology, China, in March 2018. I obtained my second doctroal degree in Control Systems from the Faculty of Science and Engineering at University of Groningen, the Netherlands, in May 2018.  
 
-Research Interests:
+Research Interests
 ======
 Robotics
 My current research interests mainly focuse on tensegrity robots, aerial robots, 
