@@ -25,7 +25,7 @@ author:
   name             :  "Professor
                         // 这里是空一行
                         Beijing Institute of Technology"
-  
+  //
   pronouns         : # example: "she/her"  
   bio              : #" "
   location         : "Beijing, China"
