@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             :     "Professor"
+  
   pronouns         : # example: "she/her"  
   bio              : #" "
   location         : "Beijing, China"
