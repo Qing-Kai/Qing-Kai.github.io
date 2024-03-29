@@ -24,10 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor, School of Automation"
   location         : "Beijing, China"
-  employer         : "Beijing Institute of 
-                     Technology"
+  employer         : "Beijing Institute of Technology"
   uri              : # URL
   email            : "qingkai.yang@bit.edu.cn" 
 
