@@ -1,13 +1,26 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Qingkai YANG"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Qingkai YANG is a  professor of the Beijing Institute of Technology. He obtained dual doctoral degrees from the University of Groningen in the Netherlands and the Beijing Institute of Technology in 2018. His current research mainly focuses on multi-agent cooperative motion control, new concept robot design, modeling, and control. He has published over 40 articles in journals such as Automatica, IEEE Transactions on Automatic Control, IEEE Robotics and Automation Letters, etc. He has authored 1 monograph and holds more than 30 authorized invention patents. He received the Excellent Ph.D. Dissertation Award from the Chinese Association of Automation in 2020, and was granted the National Key R&D Program in 2022. He won the First Prize of Natural Science Award from The Ministry of Education of China and the Chinese Association of Automation, respectively, in 2022. He was honored for the National High-Level Talent Special Support Programs (10,000 Talents Program) - Young Talents in 2023. He serves as a committee member of the Control Theory Committee of the Chinese Association of Automation (TCCT) Multi-Agent Control Group and the Nonlinear Systems and Control Group, as well as a member of the Unmanned Systems Committee of the Chinese Society of Command and Control. He served as a Guest Editor for Electronics and a youth editor for Unmanned Systems Technology. s  s
+In am currently a professor at the Schoof of Automation, Beijing Institute of Technology. 
+
+I received my first doctoral degree in Control Science and Engineering from the School of Automation at Bejing institute of Technology, China, in March 2018. I obtained my second doctroal degree in Control Systems from the Faculty of Science and Engineering at University of Groningen, the Netherlands, in May 2018.  
+
+Research Interests:
+======
+Robotics
+My current research interests mainly focuse on tensegrity robots, aerial robots, 
+multi-agent cooperative motion control, new concept robot design, modeling, and control. 
+
+Cooperative motion control of multiple robots
+
+
+
 
 A data-driven personal website
 ======
