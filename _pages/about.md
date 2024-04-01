@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a professor at the Schoof of Automation, Beijing Institute of Technology. 
+I am currently a professor at the School of Automation, Beijing Institute of Technology. 
 
-I received my first doctoral degree in Control Science and Engineering from the School of Automation at Bejing institute of Technology, China, in March 2018. I obtained my second doctoral degree in Control Systems from the Faculty of Science and Engineering at University of Groningen, the Netherlands, in May 2018.  
+I received my first doctoral degree in Control Science and Engineering from the School of Automation at Bejing Institute of Technology, China, in March 2018. I obtained my second doctoral degree in Control Systems from the Faculty of Science and Engineering at University of Groningen, the Netherlands, in May 2018.  
 
 # Research Interests
 

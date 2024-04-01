@@ -15,17 +15,18 @@ author_profile: true
 
 ## Graduate Students
 
-* Xiaozhen Zhang(Ph.D. Student)
 * Songyuan Liu(Ph.D. Student)
+* Xiaozhen Zhang(Ph.D. Student)
 * Xinyue Zhao(Ph.D. Student)
 * Yue Wang(Ph.D. Student)
 * Yumeng Wang(Ph.D. Student)
 * Jingshuo Lv(Master Student)
 * Yuhan Yin(Master Student)
-* Yuanning Zhu(Master Student)
 * Yijing Song(Master Student)
+* Yuanning Zhu(Master Student)
 * Hao Cui(Master Student)
 * Siyuan Hao(Master Student)
-* Zichen Tao(Bachelor Student)
 * Yun Gui(Bachelor Student)
 * Zeming Zhao(Bachelor Student)
+* Zichen Tao(Bachelor Student)
+ 
