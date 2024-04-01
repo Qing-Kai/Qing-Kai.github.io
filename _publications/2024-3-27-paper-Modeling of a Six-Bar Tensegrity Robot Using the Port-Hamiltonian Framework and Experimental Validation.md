@@ -1,9 +1,9 @@
 ---
 title: "Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation"
 collection: publications
-permalink: /publication/2024-3-27-paper-title-number-1
+permalink: /publications/2024-3-27-paper-Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation
 excerpt: ''
-date: 2024-3-27
+date: '2024-3-27'
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10479979/'
 citation: 'S. Liu, Q. Yang, J. Lv and H. Fang, "Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3381819.'

@@ -201,6 +201,11 @@ You can also write larger blocks of code with syntax highlighting supported for 
 print('Hello World!')
 ```
 
+
+```C
+#include <iostream>
+```
+
 or R:
 
 ```R
