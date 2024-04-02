@@ -12,7 +12,7 @@ author_profile: true
 <div class="content">
 </div>
 
-S. Liu, **Q. Yang**, J. Lv and H. Fang, "[Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation](https://ieeexplore.ieee.org/abstract/document/10479979/)," in **IEEE Robotics and Automation Letters**, doi: 10.1109/LRA.2024.3381819. 
+S. Liu, **Q. Yang***, J. Lv and H. Fang, "[Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation](https://ieeexplore.ieee.org/abstract/document/10479979/)," in **IEEE Robotics and Automation Letters**, doi: 10.1109/LRA.2024.3381819. 
 
 Jixue Mo, Hao Fang, **Qingkai Yang**, [Design and locomotion characteristic analysis of two kinds of tensegrity hopping robots](https://www.sciencedirect.com/science/article/pii/S2589004224004474), **iScience**, Volume 27, Issue 3, 2024, 109226, ISSN 2589-0042
 
