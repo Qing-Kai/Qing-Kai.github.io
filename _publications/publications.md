@@ -16,25 +16,15 @@ S. Liu, **Q. Yang***, J. Lv and H. Fang, "[Modeling of a Six-Bar Tensegrity Robo
 
 Jixue Mo, Hao Fang*, **Qingkai Yang**, [Design and locomotion characteristic analysis of two kinds of tensegrity hopping robots](https://www.sciencedirect.com/science/article/pii/S2589004224004474), **iScience**, Volume 27, Issue 3, 2024, 109226, ISSN 2589-0042
 
-Zhao X, **Yang Q**, Pan Y, Fang H. [Triangular formation control with mixed distance and bearing measurements under limited field of view constraints](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6756). **Int J Robust Nonlinear Control**. 2023; 33(12): 7374-7391. doi: 10.1002/rnc.6756
+Zhao X, **Yang Q****, Pan Y, Fang H. [Triangular formation control with mixed distance and bearing measurements under limited field of view constraints](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6756). **Int J Robust Nonlinear Control**. 2023; 33(12): 7374-7391. doi: 10.1002/rnc.6756
 
-Q. Liu, P. Li, Y. Yin, **Q. Yang**, X. Zhao and H. Fang, "[Rolling Strategy and Motion Controller Design for an Aerial Vehicle Surrounded by a Six-Bar Tensegrity Structure](https://ieeexplore.ieee.org/abstract/document/10240425)," **2023 42nd Chinese Control Conference (CCC)**, Tianjin, China, 2023, pp. 4131-4136, doi: 10.23919/CCC58697.2023.10240425.
+X. Zhang, **Q. Yang***, J. Lyu, X. Zhao and H. Fang, "[Distributed Variation Parameter Design for Dynamic Formation Maneuvers With Bearing Constraints](https://ieeexplore.ieee.org/abstract/document/10149046/)," in **IEEE Transactions on Automation Science and Engineering**, doi: 10.1109/TASE.2023.3283095.
 
-Z. Han, H. Fang, **Q. Yang**, Y. Bai and L. Chen, "[Online 3D Reconstruction Based On Lidar Point Cloud](https://ieeexplore.ieee.org/abstract/document/10240819/)," **2023 42nd Chinese Control Conference (CCC)**, Tianjin, China, 2023, pp. 4505-4509, doi: 10.23919/CCC58697.2023.10240819.
+**Q. Yang**, F. Xiao, J. Lyu, B. Zhou and H. Fang*, "[Self-Organized Polygon Formation Control Based on Distributed Estimation](https://ieeexplore.ieee.org/abstract/document/10083067/)," in **IEEE Transactions on Industrial Electronics**, vol. 71, no. 2, pp. 1958-1967, Feb. 2024, doi: 10.1109/TIE.2023.3260346.
 
-Mo, J., Gao, C., Liu, F., **Yang, Q**., Fang, H. (2023). [A Modified Artificial Potential Field Method Based on Subgoal Points for Mobile Robot](https://link.springer.com/chapter/10.1007/978-981-99-6483-3_26). In: Yang, H., et al. **Intelligent Robotics and Applications. ICIRA 2023**. Lecture Notes in Computer Science(), vol 14267. Springer, Singapore. https://doi.org/10.1007/978-981-99-6483-3_26
+Daiying Tian, Hao Fang*, **Qingkai Yang**, Haoyong Yu, Wenyu Liang, Yan Wu, [Reinforcement learning under temporal logic constraints as a sequence modeling problem](https://www.sciencedirect.com/science/article/pii/S0921889022002408), **Robotics and Autonomous Systems**, Volume 161, 2023, 104351, ISSN 0921-8890, doi: 10.1016/j.robot.2022.104351.
 
-X. Zhang, **Q. Yang**, J. Lyu, X. Zhao and H. Fang, "[Distributed Variation Parameter Design for Dynamic Formation Maneuvers With Bearing Constraints](https://ieeexplore.ieee.org/abstract/document/10149046/)," in **IEEE Transactions on Automation Science and Engineering**, doi: 10.1109/TASE.2023.3283095.
-
-**Q. Yang**, F. Xiao, J. Lyu, B. Zhou and H. Fang, "[Self-Organized Polygon Formation Control Based on Distributed Estimation](https://ieeexplore.ieee.org/abstract/document/10083067/)," in **IEEE Transactions on Industrial Electronics**, vol. 71, no. 2, pp. 1958-1967, Feb. 2024, doi: 10.1109/TIE.2023.3260346.
-
-Daiying Tian, Hao Fang, **Qingkai Yang**, Haoyong Yu, Wenyu Liang, Yan Wu, [Reinforcement learning under temporal logic constraints as a sequence modeling problem](https://www.sciencedirect.com/science/article/pii/S0921889022002408), **Robotics and Autonomous Systems**, Volume 161, 2023, 104351, ISSN 0921-8890, doi: 10.1016/j.robot.2022.104351.
-
-Zhao X, **Yang Q**, Liu Q, Yin Y, Wei Y, Fang H. [Minimally Persistent Graph Generation and Formation Control for Multi-Robot Systems under Sensing Constraints](https://www.mdpi.com/2079-9292/12/2/317). **Electronics**. 2023; 12(2):317. doi: 10.3390/electronics12020317
-
-X. Zhang, J. Lv, S. Lu and **Q. Yang**, "[Distributed Decision Making on Scaling Size for Obstacle Avoidance in Affine Formation Control](https://ieeexplore.ieee.org/abstract/document/10023557)," **2022 37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)**, Beijing, China, 2022, pp. 1001-1006, doi: 10.1109/YAC57282.2022.10023557.
-
-X. Zhang et al., "[Design and Analysis of Truss Aerial Transportation System (TATS): The Lightweight Bar Spherical Joint Mechanism](https://ieeexplore.ieee.org/abstract/document/9981191)," **2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Kyoto, Japan, 2022, pp. 10501-10507, doi: 10.1109/IROS47612.2022.9981191.
+Zhao X, **Yang Q***, Liu Q, Yin Y, Wei Y, Fang H. [Minimally Persistent Graph Generation and Formation Control for Multi-Robot Systems under Sensing Constraints](https://www.mdpi.com/2079-9292/12/2/317). **Electronics**. 2023; 12(2):317. doi: 10.3390/electronics12020317
 
 D. Tian et al., "[Two-Phase Motion Planning Under Signal Temporal Logic Specifications in Partially Unknown Environments](https://ieeexplore.ieee.org/abstract/document/9884983)," in **IEEE Transactions on Industrial Electronics**, vol. 70, no. 7, pp. 7113-7121, July 2023, doi: 10.1109/TIE.2022.3203752.
 
@@ -150,6 +140,16 @@ X. Zhang, **Q. Yang***, H. Wei, W. Chen, Z. Peng and H. Fang, "[A Distributed Al
 J. Mo, C. Gao, H. Fang and **Q. Yang**, "[Design and locomotion characteristic analysis of a novel tensegrity hopping robot*](https://ieeexplore.ieee.org/abstract/document/10354708/)," **2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)**, Koh Samui, Thailand, 2023, pp. 1-8, doi: 10.1109/ROBIO58561.2023.10354708.
 
 Y. Yin, **Q. Yang** and H. Fang, "[Error-State Kalman Filter Based External Wrench Estimation for MAVs Under a Cascaded Architecture](https://ieeexplore.ieee.org/abstract/document/10342358/)," **2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Detroit, MI, USA, 2023, pp. 5019-5026, doi: 10.1109/IROS55552.2023.10342358.
+
+Q. Liu, P. Li, Y. Yin, **Q. Yang**, X. Zhao and H. Fang, "[Rolling Strategy and Motion Controller Design for an Aerial Vehicle Surrounded by a Six-Bar Tensegrity Structure](https://ieeexplore.ieee.org/abstract/document/10240425)," **2023 42nd Chinese Control Conference (CCC)**, Tianjin, China, 2023, pp. 4131-4136, doi: 10.23919/CCC58697.2023.10240425.
+
+Z. Han, H. Fang, **Q. Yang**, Y. Bai and L. Chen, "[Online 3D Reconstruction Based On Lidar Point Cloud](https://ieeexplore.ieee.org/abstract/document/10240819/)," **2023 42nd Chinese Control Conference (CCC)**, Tianjin, China, 2023, pp. 4505-4509, doi: 10.23919/CCC58697.2023.10240819.
+
+Mo, J., Gao, C., Liu, F., **Yang, Q**., Fang, H. (2023). [A Modified Artificial Potential Field Method Based on Subgoal Points for Mobile Robot](https://link.springer.com/chapter/10.1007/978-981-99-6483-3_26). In: Yang, H., et al. **Intelligent Robotics and Applications. ICIRA 2023**. Lecture Notes in Computer Science(), vol 14267. Springer, Singapore. https://doi.org/10.1007/978-981-99-6483-3_26
+
+X. Zhang, J. Lv, S. Lu and **Q. Yang**, "[Distributed Decision Making on Scaling Size for Obstacle Avoidance in Affine Formation Control](https://ieeexplore.ieee.org/abstract/document/10023557)," **2022 37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)**, Beijing, China, 2022, pp. 1001-1006, doi: 10.1109/YAC57282.2022.10023557.
+
+X. Zhang et al., "[Design and Analysis of Truss Aerial Transportation System (TATS): The Lightweight Bar Spherical Joint Mechanism](https://ieeexplore.ieee.org/abstract/document/9981191)," **2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, Kyoto, Japan, 2022, pp. 10501-10507, doi: 10.1109/IROS47612.2022.9981191.
 
 
 <style type="text/css">
