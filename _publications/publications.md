@@ -14,9 +14,9 @@ author_profile: true
 
 S. Liu, **Q. Yang***, J. Lv and H. Fang, "[Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation](https://ieeexplore.ieee.org/abstract/document/10479979/)," in **IEEE Robotics and Automation Letters**, doi: 10.1109/LRA.2024.3381819. 
 
-Jixue Mo, Hao Fang, **Qingkai Yang**, [Design and locomotion characteristic analysis of two kinds of tensegrity hopping robots](https://www.sciencedirect.com/science/article/pii/S2589004224004474), **iScience**, Volume 27, Issue 3, 2024, 109226, ISSN 2589-0042
+Jixue Mo, Hao Fang*, **Qingkai Yang**, [Design and locomotion characteristic analysis of two kinds of tensegrity hopping robots](https://www.sciencedirect.com/science/article/pii/S2589004224004474), **iScience**, Volume 27, Issue 3, 2024, 109226, ISSN 2589-0042
 
-X. Zhang, **Q. Yang**, H. Wei, W. Chen, Z. Peng and H. Fang, "[A Distributed Algorithm for Solving A Time-Varying Linear Equation](https://ieeexplore.ieee.org/abstract/document/10383585/)," **2023 62nd IEEE Conference on Decision and Control (CDC)**, Singapore, Singapore, 2023, pp. 3160-3165, doi: 10.1109/CDC49753.2023.10383585.
+X. Zhang, **Q. Yang***, H. Wei, W. Chen, Z. Peng and H. Fang, "[A Distributed Algorithm for Solving A Time-Varying Linear Equation](https://ieeexplore.ieee.org/abstract/document/10383585/)," **2023 62nd IEEE Conference on Decision and Control (CDC)**, Singapore, Singapore, 2023, pp. 3160-3165, doi: 10.1109/CDC49753.2023.10383585.
 
 J. Mo, C. Gao, H. Fang and **Q. Yang**, "[Design and locomotion characteristic analysis of a novel tensegrity hopping robot*](https://ieeexplore.ieee.org/abstract/document/10354708/)," **2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)**, Koh Samui, Thailand, 2023, pp. 1-8, doi: 10.1109/ROBIO58561.2023.10354708.
 
@@ -145,6 +145,14 @@ Huang, J., Dou, L., Fang, H. et al. [Distributed backstepping-based adaptive fuz
 Jie Huang, Jie Chen, Hao Fang, Lihua Dou and **Qingkai Yang**, "[Consensus of multiple high-order nonlinear systems with uncertainty](https://ieeexplore.ieee.org/abstract/document/6640695)," **Proceedings of the 32nd Chinese Control Conference**, Xi'an, 2013, pp. 7145-7149.
 
 **Q. Yang**, H. Fang, Y. Mao, J. Huang and J. Sun, "[Distributed tracking for networked Euler-Lagrange systems using only relative position measurements](https://ieeexplore.ieee.org/abstract/document/6606098)," **2013 9th Asian Control Conference (ASCC)**, Istanbul, Turkey, 2013, pp. 1-6, doi: 10.1109/ASCC.2013.6606098.
+
+## Conference Papers
+
+<div class="content">
+</div>
+
+
+
 
 <style type="text/css">
     .content {
