@@ -11,7 +11,7 @@ author_profile: true
 <div class="content">
 </div>
 
-**Yang, Qingkai**. / [Constructing tensegrity frameworks and related applications in multi-agent formation control](https://research.rug.nl/en/publications/constructing-tensegrity-frameworks-and-related-applications-in-mu). [Groningen]: University of Groningen, 2018. 
+**Yang, Qingkai**. [Constructing tensegrity frameworks and related applications in multi-agent formation control](https://research.rug.nl/en/publications/constructing-tensegrity-frameworks-and-related-applications-in-mu). [Groningen]: University of Groningen, 2018. 
 
 
 ## Journal Articles
