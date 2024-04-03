@@ -12,21 +12,21 @@ author_profile: true
 <div class="content">
 </div>
 
-S. Liu, **Q. Yang***, J. Lv and H. Fang, "[Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation](https://ieeexplore.ieee.org/abstract/document/10479979/)," in **IEEE Robotics and Automation Letters**, doi: 10.1109/LRA.2024.3381819. 
+S. Liu, **Q. Yang***, J. Lv and H. Fang, "[Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation](https://ieeexplore.ieee.org/abstract/document/10479979/)," **IEEE Robotics and Automation Letters**, doi: 10.1109/LRA.2024.3381819. 
 
 Jixue Mo, Hao Fang*, **Qingkai Yang**, [Design and locomotion characteristic analysis of two kinds of tensegrity hopping robots](https://www.sciencedirect.com/science/article/pii/S2589004224004474), **iScience**, Volume 27, Issue 3, 2024, 109226, ISSN 2589-0042
 
 Zhao X, **Yang Q***, Pan Y, Fang H. [Triangular formation control with mixed distance and bearing measurements under limited field of view constraints](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6756). **Int J Robust Nonlinear Control**. 2023; 33(12): 7374-7391. doi: 10.1002/rnc.6756
 
-X. Zhang, **Q. Yang***, J. Lyu, X. Zhao and H. Fang, "[Distributed Variation Parameter Design for Dynamic Formation Maneuvers With Bearing Constraints](https://ieeexplore.ieee.org/abstract/document/10149046/)," in **IEEE Transactions on Automation Science and Engineering**, doi: 10.1109/TASE.2023.3283095.
+X. Zhang, **Q. Yang***, J. Lyu, X. Zhao and H. Fang, "[Distributed Variation Parameter Design for Dynamic Formation Maneuvers With Bearing Constraints](https://ieeexplore.ieee.org/abstract/document/10149046/)," **IEEE Transactions on Automation Science and Engineering**, doi: 10.1109/TASE.2023.3283095.
 
-**Q. Yang**, F. Xiao, J. Lyu, B. Zhou and H. Fang*, "[Self-Organized Polygon Formation Control Based on Distributed Estimation](https://ieeexplore.ieee.org/abstract/document/10083067/)," in **IEEE Transactions on Industrial Electronics**, vol. 71, no. 2, pp. 1958-1967, Feb. 2024, doi: 10.1109/TIE.2023.3260346.
+**Q. Yang**, F. Xiao, J. Lyu, B. Zhou and H. Fang*, "[Self-Organized Polygon Formation Control Based on Distributed Estimation](https://ieeexplore.ieee.org/abstract/document/10083067/),"  **IEEE Transactions on Industrial Electronics**, vol. 71, no. 2, pp. 1958-1967, Feb. 2024, doi: 10.1109/TIE.2023.3260346.
 
 Daiying Tian, Hao Fang*, **Qingkai Yang**, Haoyong Yu, Wenyu Liang, Yan Wu, [Reinforcement learning under temporal logic constraints as a sequence modeling problem](https://www.sciencedirect.com/science/article/pii/S0921889022002408), **Robotics and Autonomous Systems**, Volume 161, 2023, 104351, ISSN 0921-8890, doi: 10.1016/j.robot.2022.104351.
 
 Zhao X, **Yang Q***, Liu Q, Yin Y, Wei Y, Fang H. [Minimally Persistent Graph Generation and Formation Control for Multi-Robot Systems under Sensing Constraints](https://www.mdpi.com/2079-9292/12/2/317). **Electronics**. 2023; 12(2):317. doi: 10.3390/electronics12020317
 
-D. Tian et al., "[Two-Phase Motion Planning Under Signal Temporal Logic Specifications in Partially Unknown Environments](https://ieeexplore.ieee.org/abstract/document/9884983)," in **IEEE Transactions on Industrial Electronics**, vol. 70, no. 7, pp. 7113-7121, July 2023, doi: 10.1109/TIE.2022.3203752.
+Tian D, Fang H, **Yang Q***, et al., "[Two-Phase Motion Planning Under Signal Temporal Logic Specifications in Partially Unknown Environments](https://ieeexplore.ieee.org/abstract/document/9884983)," **IEEE Transactions on Industrial Electronics**, vol. 70, no. 7, pp. 7113-7121, July 2023, doi: 10.1109/TIE.2022.3203752.
 
 C. Wu, H. Fang, X. Zeng, **Q. Yang**, Y. Wei and J. Chen, "[Distributed Continuous-Time Algorithm for Time-Varying Optimization With Affine Formation Constraints](https://ieeexplore.ieee.org/abstract/document/9827560)," in **IEEE Transactions on Automatic Control**, vol. 68, no. 4, pp. 2615-2622, April 2023, doi: 10.1109/TAC.2022.3190054.
 
