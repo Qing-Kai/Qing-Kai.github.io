@@ -13,7 +13,7 @@ author_profile: true
 
 **Yang, Qingkai**. [Constructing tensegrity frameworks and related applications in multi-agent formation control](https://research.rug.nl/en/publications/constructing-tensegrity-frameworks-and-related-applications-in-mu). [Groningen]: University of Groningen, the Netherlands, 2018. 
 
-**Yang, Qingkai**. [Distributed Estimation and Cooperative Control of Multiple Lagrangian Systems]. [Beijing]: Beijing Institute of Technology, China, 2018. 
+**Yang, Qingkai**. Distributed Estimation and Cooperative Control of Multiple Lagrangian Systems. [Beijing]: Beijing Institute of Technology, China, 2018. 
 
 
 ## Journal Articles
