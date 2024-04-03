@@ -10,8 +10,12 @@ author_profile: true
 
 ## Postgraduate Students
 
-* Fan Xiao(Master Degree, graduate in 2023)
-* Qi Liu(Master Degree, graduate in 2023)
+* Fan Xiao (Master Degree, graduate in 2023)
+* Qi Liu (Master Degree, graduate in 2023)
+* Yang Ji (Master Degree, graduate in 2023)
+* Bo Zhou (Master Degree, graduate in 2021)
+* Hong Liu (Master Degree, graduate in 2021)
+* Yunlong Pan (Master Degree, graduate in 2021)
 
 ## Graduate Students
 
