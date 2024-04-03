@@ -16,7 +16,7 @@ S. Liu, **Q. Yang***, J. Lv and H. Fang, "[Modeling of a Six-Bar Tensegrity Robo
 
 Jixue Mo, Hao Fang*, **Qingkai Yang**, [Design and locomotion characteristic analysis of two kinds of tensegrity hopping robots](https://www.sciencedirect.com/science/article/pii/S2589004224004474), **iScience**, Volume 27, Issue 3, 2024, 109226, ISSN 2589-0042
 
-Zhao X, **Yang Q****, Pan Y, Fang H. [Triangular formation control with mixed distance and bearing measurements under limited field of view constraints](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6756). **Int J Robust Nonlinear Control**. 2023; 33(12): 7374-7391. doi: 10.1002/rnc.6756
+Zhao X, **Yang Q***, Pan Y, Fang H. [Triangular formation control with mixed distance and bearing measurements under limited field of view constraints](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6756). **Int J Robust Nonlinear Control**. 2023; 33(12): 7374-7391. doi: 10.1002/rnc.6756
 
 X. Zhang, **Q. Yang***, J. Lyu, X. Zhao and H. Fang, "[Distributed Variation Parameter Design for Dynamic Formation Maneuvers With Bearing Constraints](https://ieeexplore.ieee.org/abstract/document/10149046/)," in **IEEE Transactions on Automation Science and Engineering**, doi: 10.1109/TASE.2023.3283095.
 
