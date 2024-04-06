@@ -8,15 +8,6 @@ author_profile: true
 ## Professors 
 * Qingkai Yang
 
-## Former Members
-
-* Fan Xiao (Master Degree, graduate in 2023)
-* Qi Liu (Master Degree, graduate in 2023)
-* Yang Ji (Master Degree, graduate in 2023)
-* Bo Zhou (Master Degree, graduate in 2021)
-* Hong Liu (Master Degree, graduate in 2021)
-* Yunlong Pan (Master Degree, graduate in 2021)
-
 ## Graduate Students
 
 * Songyuan Liu(Ph.D. Student)
@@ -34,3 +25,11 @@ author_profile: true
 * Zeming Zhao(Bachelor Student)
 * Zichen Tao(Bachelor Student)
  
+## Former Members
+
+* Fan Xiao (Master Degree, graduate in 2023)
+* Qi Liu (Master Degree, graduate in 2023)
+* Yang Ji (Master Degree, graduate in 2023)
+* Bo Zhou (Master Degree, graduate in 2021)
+* Hong Liu (Master Degree, graduate in 2021)
+* Yunlong Pan (Master Degree, graduate in 2021)
