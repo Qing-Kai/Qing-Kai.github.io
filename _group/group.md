@@ -8,7 +8,7 @@ author_profile: true
 ## Professors 
 * Qingkai Yang
 
-## Postgraduate Students
+## Former Members
 
 * Fan Xiao (Master Degree, graduate in 2023)
 * Qi Liu (Master Degree, graduate in 2023)
