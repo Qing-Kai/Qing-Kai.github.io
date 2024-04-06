@@ -7,7 +7,7 @@ venue: "Beijing Institute of Technology"
 date: 2019-01-01
 ---
 
-[//]rite your brief introduction in this line(can be seen directly at the "Teaching" page)
+[//]:#Write your brief introduction in this line(can be seen directly at the "Teaching" page)
 
 Write your detailed introduction below(can only be seen after clicking the specific course's link)
 
