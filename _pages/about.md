@@ -15,7 +15,7 @@ I received my first doctoral degree in Control Science and Engineering from the 
 
 * Tensegrity robots
 
-   mechanical design, dynamic modeling, form-finding, locomition Control, path planning
+   mechanical design, dynamic modeling, form-finding, locomotion Control, path planning
 
 * Aerial robots
 
