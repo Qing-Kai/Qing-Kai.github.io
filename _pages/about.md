@@ -23,4 +23,4 @@ I received my first doctoral degree in Control Science and Engineering from the 
  
 * Motion control of multiple robots (UAV, UGV)
 
-   formation control, spatial-temporal motion planning, cooeprative locolization and control, resilient control 
+   formation control, spatial-temporal motion planning, cooperative locolization and control, resilient control 
