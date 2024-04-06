@@ -15,7 +15,7 @@ author_profile: true
 * Xinyue Zhao(Ph.D. Student)
 * Yue Wang(Ph.D. Student)
 * Yumeng Wang(Ph.D. Student)
-* Jingshuo Lv(Master Student)
+* Jingshuo Lyv(Master Student)
 * Yuhan Yin(Master Student)
 * Yijing Song(Master Student)
 * Yuanning Zhu(Master Student)
