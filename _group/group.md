@@ -11,7 +11,7 @@ author_profile: true
 ## Graduate Students
 
 * Songyuan Liu(Ph.D. Student)
-* Xiaozhen Zhang(Ph.D. Student)
+* [Xiaozhen Zhang](https://mkb9559.github.io/zxz-main/)(Ph.D. Student)
 * Xinyue Zhao(Ph.D. Student)
 * Yue Wang(Ph.D. Student)
 * Yumeng Wang(Ph.D. Student)
